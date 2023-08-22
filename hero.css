@@ -1,0 +1,33 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	padding: 50px;
+	background-color: bisque;
+	box-sizing: border-box;
+}
+.heading {
+	color: rgb(12, 3, 24);
+}
+.Top-container {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+#button {
+	padding: 15px;
+	color: azure;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: blue;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	border-radius: 15px;
+}
+#button:hover {
+	background-color: blueviolet;
+}
+#hero-image img {
+	border: 5px solid green;
+}
