@@ -41,6 +41,6 @@ const randomHero = () => {
 	return random;
 };
 
-button.onclick = () => {
+button.addEventListener('click', function () {
 	GetRandomHero(randomHero());
-};
+});
