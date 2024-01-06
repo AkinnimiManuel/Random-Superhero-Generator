@@ -4,16 +4,25 @@
 }
 body {
 	padding: 50px;
-	background-color: whitesmoke
+	background-color: whitesmoke;
 	box-sizing: border-box;
 }
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 .heading {
-	color: rgb(12, 3, 24);
+	color: purple;
+	text-align: center;
 }
 .Top-container {
 	display: flex;
 	align-items: center;
 	gap: 20px;
+}
+.hero-conatiner {
+	text-align: center;
 }
 #button {
 	padding: 15px;
