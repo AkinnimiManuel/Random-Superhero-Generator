@@ -13,7 +13,7 @@ body {
 	align-items: center;
 }
 .heading {
-	color: purple;
+	color: red;
 	text-align: center;
 }
 .Top-container {
@@ -25,7 +25,7 @@ body {
 	text-align: center;
 }
 #button {
-	padding: 15px;
+	padding: 20px;
 	color: azure;
 	margin-top: 20px;
 	margin-bottom: 20px;
